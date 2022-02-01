@@ -27,5 +27,5 @@ CREATE TABLE `ssl_domains_info` (
 ### How to use
 To input data into database
 ```shell
-python3 run.py --insert-to-database
+$ python3 run.py --insert-to-database
 ```
